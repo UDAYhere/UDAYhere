@@ -1,88 +1,84 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]!</h1>
-<h3 align="center">Aspiring Software Engineer | Full Stack Web Developer | DSA Explorer</h3>
+<!-- Banner -->
+<!--<p align="center">
+  <img src="https://i.imgur.com/q8QvHjz.gif" alt="Uday Kumar Banner" width="100%"/>
+</p>-->
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<h1 align="center">Hi 👋, I'm Uday Kumar</h1>
+<h3 align="center">🚀 Software Engineer | 💻 Full Stack Web Developer | 🎓 MCA @ LPU</h3>
+
+---
+
+### 👨‍💻 About Me:
+
+<p align="justify">
+I am <strong>Uday Kumar</strong>, a dedicated and goal-oriented postgraduate student currently pursuing a <strong>Master of Computer Applications</strong> at <strong>Lovely Professional University</strong>. With a strong academic background in computer applications and hands-on experience in software development, I am passionate about building efficient, scalable, and user-friendly technological solutions.
+
+<br>
+
+💡 My technical expertise includes Java, C++, JavaScript, React, MySQL, MongoDB, and cloud platforms. I have applied these skills in multiple academic and personal projects, such as a <strong>Cloud-Based File Storage System</strong> using Java and Google Cloud, and a <strong>crowdsourced reporting platform (Buddy Fix)</strong>, which was recognized as a finalist in a Hackathon.
+
+<br>
+
+### 🔧 Technical Proficiencies:
+
+- **Languages**: Java, C++, JavaScript  
+- **Frameworks & Tools**: React, HTML/CSS, Node.js, MongoDB, MySQL, Git  
+- **Certifications**: Networking Basics (Cisco), Software Engineering (Saylor.org)  
+- **Soft Skills**: Leadership, Adaptability, Communication, Analytical Thinking  
+
+<br>
+
+🎯 I have a keen interest in leveraging technology to solve real-world problems. My experience spans across front-end and back-end development, database management, and the integration of APIs and AI tools into dynamic applications.
+
+<br>
+
+💼 I am currently seeking opportunities to apply my technical skills and knowledge in real-world projects and collaborative environments. I am also open to internships or entry-level roles in software development or related domains.
+
+🤝 Let’s connect if you’re looking for a motivated developer who is eager to contribute, learn, and grow in the tech industry.
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🎓 I’m currently a **Computer Science student** working on real-world projects.
-- 💡 I’m learning **Data Structures & Algorithms** for university placements.
-- 🧑‍💻 Building a **Cloud-Based File Storage System** using Java Swing, Spring Boot & Google Cloud.
-- 🔧 Passionate about creating tools for **healthcare & senior citizens** using automation and smart systems.
-- ✨ Open to collaborating on exciting **Web Dev** and **AI** projects.
-- 🧭 Currently exploring: **NestJS**, **Next.js**, and **DevOps** fundamentals.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages:
-![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Web & Frameworks:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-
-### Tools & Databases:
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
-## 🎯 Goals for 2025
-
-- 🔥 Master DSA for top tech company placements
-- 🚀 Contribute to Open Source
-- 🧠 Deep dive into system design and DevOps
-- 🧑‍🏫 Teach others through content (IG Reels/YouTube)
-- 🧾 Publish a research paper on **AI and Games**
-
----
-
-## 📬 Let's Connect!
+### 🌐 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/your-github-username">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=flat-square" />
-  </a>
+  <a href="https://twitter.com/_uday_here" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/-uday-kumar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/uday-kumar" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://instagram.com/uday.here_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/uday92689" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://www.leetcode.com/6zxr5ewm77" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.hackerearth.com/@uday92689" target="_blank"><img src="https://img.shields.io/badge/HackerEarth-323754?style=flat&logo=hackerearth&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Keep+Learning...;Keep+Building...;Keep+Improving+🚀" alt="Typing SVG" />
+### 🛠️ Languages & Tools:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,react,nodejs,html,css,tailwind,php,mysql,postgres,mongodb,python,docker,git,linux" />
 </p>
+
+---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=udayhere&show_icons=true&theme=tokyonight" alt="Uday's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udayhere&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayhere&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+### 📫 Let's Collaborate!
+
+If you're building something exciting and need a reliable full stack developer or backend engineer, feel free to reach out!
+
+<p align="left">
+  <a href="mailto:uday92689@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://x.com/_Uday_here" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://www.instagram.com/uday.here_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/-uday-kumar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
