@@ -16,9 +16,7 @@ I am <strong>Uday Kumar</strong>, a dedicated and goal-oriented postgraduate stu
 <br>
 
 💡 My technical expertise includes Java, C++, JavaScript, React, MySQL, MongoDB, and cloud platforms. I have applied these skills in multiple academic and personal projects, such as a <strong>Cloud-Based File Storage System</strong> using Java and Google Cloud, and a <strong>crowdsourced reporting platform (Buddy Fix)</strong>, which was recognized as a finalist in a Hackathon.
-
 <br>
-
 ### 🔧 Technical Proficiencies:
 
 - **Languages**: Java, C++, JavaScript  
