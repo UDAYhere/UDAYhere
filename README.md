@@ -59,16 +59,6 @@ I am <strong>Uday Kumar</strong>, a dedicated and goal-oriented postgraduate stu
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udayhere&show_icons=true&theme=tokyonight" alt="Uday's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udayhere&theme=tokyonight" alt="GitHub Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udayhere&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
 ### 📫 Let's Collaborate!
 
 If you're building something exciting and need a reliable full stack developer or backend engineer, feel free to reach out!
