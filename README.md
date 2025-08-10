@@ -4,7 +4,7 @@
 </p>-->
 
 <h1 align="center">Hi 👋, I'm Uday Kumar</h1>
-<h3 align="center">🚀 Software Engineer | 💻 Full Stack Web Developer | 🎓 MCA @ LPU</h3>
+<h3 align="center">🚀 Software Engineer | 💻 Full Stack Web Developer | 📊 Data Analyst </h3>
 
 ---
 
