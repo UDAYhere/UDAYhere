@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/q8QvHjz.gif" alt="Uday Kumar Banner" width="100%"/>
 </p>-->
 
-<h1 align="center">Hi 👋, I'm Uday Kumar</h1>
+<h1 align="center">Hi , I'm Uday Kumar</h1>
 <h3 align="center">🚀 Software Engineer | 💻 Full Stack Web Developer | 📊 Data Analyst </h3>
 
 ---
